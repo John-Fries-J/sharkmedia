@@ -4,9 +4,7 @@
 
 <h1> Start the bot </h1>
 <p>
-```sh
 npm start
-```
 </p>
 
 ## 📝 License
